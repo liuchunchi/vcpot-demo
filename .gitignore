@@ -1,0 +1,3 @@
+# Ignore user-specific files
+*.DS_Store
+.idea
